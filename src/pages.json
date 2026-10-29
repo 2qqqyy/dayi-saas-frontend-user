@@ -1,0 +1,306 @@
+{
+  "pages": [
+    {
+      "path": "pages/index/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/travel/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/travel/map",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "山野导览地图"
+      }
+    },
+    {
+      "path": "pages/travel/scenic-detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "景点详情"
+      }
+    },
+    {
+      "path": "pages/travel/route-detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "路线详情"
+      }
+    },
+    {
+      "path": "pages/travel/picking",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "青梅采摘"
+      }
+    },
+    {
+      "path": "pages/travel/picking-detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "采摘详情"
+      }
+    },
+    {
+      "path": "pages/travel/homestay",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "特色民宿"
+      }
+    },
+    {
+      "path": "pages/travel/homestay-detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "民宿详情"
+      }
+    },
+    {
+      "path": "pages/travel/guide",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "山野攻略"
+      }
+    },
+    {
+      "path": "pages/travel/guide-detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "攻略详情"
+      }
+    },
+    {
+      "path": "pages/mall/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/mall/category",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "商品分类"
+      }
+    },
+    {
+      "path": "pages/mall/product-detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "商品详情"
+      }
+    },
+    {
+      "path": "pages/mall/cart",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "购物车"
+      }
+    },
+    {
+      "path": "pages/mall/search",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "搜索好物"
+      }
+    },
+    {
+      "path": "pages/order/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "我的订单"
+      }
+    },
+    {
+      "path": "pages/order/detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "订单详情"
+      }
+    },
+    {
+      "path": "pages/order/picking-order",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "采摘预约"
+      }
+    },
+    {
+      "path": "pages/order/homestay-order",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "民宿预订"
+      }
+    },
+    {
+      "path": "pages/order/product-order",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "确认订单"
+      }
+    },
+    {
+      "path": "pages/ai/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/common/error",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "页面不存在"
+      }
+    },
+    {
+      "path": "pages/ai/history",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "我的问答记录"
+      }
+    },
+    {
+      "path": "pages/ai/itinerary",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "行程规划"
+      }
+    },
+    {
+      "path": "pages/user/index",
+      "style": {
+        "navigationStyle": "custom"
+      }
+    },
+    {
+      "path": "pages/user/login",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "登录"
+      }
+    },
+    {
+      "path": "pages/user/register",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "注册"
+      }
+    },
+    {
+      "path": "pages/user/profile",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "个人资料"
+      }
+    },
+    {
+      "path": "pages/user/address",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "收货地址"
+      }
+    },
+    {
+      "path": "pages/user/address-edit",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "编辑地址"
+      }
+    },
+    {
+      "path": "pages/user/favorite",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "我的收藏"
+      }
+    },
+    {
+      "path": "pages/user/display",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "外观"
+      }
+    },
+    {
+      "path": "pages/user/settings",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "设置"
+      }
+    },
+    {
+      "path": "pages/user/ticket",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "客服与工单"
+      }
+    },
+    {
+      "path": "pages/user/ticket-detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "工单详情"
+      }
+    },
+    {
+      "path": "pages/user/messages",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "消息中心"
+      }
+    },
+    {
+      "path": "pages/user/policy",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "协议与说明"
+      }
+    },
+    {
+      "path": "pages/user/footprint",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "我的足迹"
+      }
+    },
+    {
+      "path": "pages/user/feedback",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "意见反馈"
+      }
+    },
+    {
+      "path": "pages/notice/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "村务公告"
+      }
+    },
+    {
+      "path": "pages/notice/detail",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "公告详情"
+      }
+    },
+    {
+      "path": "pages/payment/index",
+      "style": {
+        "navigationStyle": "custom",
+        "navigationBarTitleText": "支付"
+      }
+    }
+  ],
+  "globalStyle": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "青梅里",
+    "navigationBarBackgroundColor": "#FAF8F2",
+    "backgroundColor": "#FAF8F2"
+  }
+}
